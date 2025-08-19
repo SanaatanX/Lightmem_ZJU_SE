@@ -1,8 +1,0 @@
-Accuracy: 0.05
-        knowledge-update: 0.0128 (78)
-        multi-session: 0.0226 (133)
-        single-session-preference: 0.0667 (30)
-        temporal-reasoning: 0.0075 (133)
-        single-session-user: 0.0429 (70)
-        single-session-assistant: 0.2679 (56)
-Saved to /root/ZJU/eval_outputs/preds_baseline_model.jsonl.eval-results-qwen-max-aliyun
