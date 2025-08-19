@@ -1,0 +1,70 @@
+{
+  "capacity_100_items": {
+    "average_score": 3.1945,
+    "count": 4936
+  },
+  "capacity_150_items": {
+    "average_score": 3.1839,
+    "count": 4937
+  },
+  "capacity_200_items": {
+    "average_score": 3.2238,
+    "count": 4938
+  },
+  "capacity_250_items": {
+    "average_score": 3.2625,
+    "count": 4938
+  },
+  "capacity_300_items": {
+    "average_score": 3.2074,
+    "count": 4938
+  },
+  "capacity_350_items": {
+    "average_score": 3.2415,
+    "count": 4935
+  },
+  "capacity_400_items": {
+    "average_score": 3.2174,
+    "count": 4940
+  },
+  "capacity_450_items": {
+    "average_score": 3.2259,
+    "count": 4940
+  },
+  "capacity_500_items": {
+    "average_score": 3.2224,
+    "count": 4938
+  },
+  "capacity_50_items": {
+    "average_score": 3.1951,
+    "count": 4935
+  },
+  "ext": {
+    "average_score": 2.7512,
+    "count": 4935
+  },
+  "original_text": {
+    "average_score": 3.2272,
+    "count": 4938
+  },
+  "summ_l1_slight": {
+    "average_score": 3.2367,
+    "count": 4939
+  },
+  "summ_l2_light": {
+    "average_score": 3.2087,
+    "count": 4931
+  },
+  "summ_l3_medium": {
+    "average_score": 2.8771,
+    "count": 4929
+  },
+  "summ_l4_heavy": {
+    "average_score": 2.6777,
+    "count": 4939
+  },
+  "summ_l5_extreme": {
+    "average_score": 2.2287,
+    "count": 4928
+  }
+}

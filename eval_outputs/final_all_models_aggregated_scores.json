@@ -1,0 +1,26 @@
+{
+  "run_wiki_compression_r16_original_text": {
+    "average_score": 3.2368,
+    "count": 4936
+  },
+  "run_wiki_compression_r16_summ_l3_medium": {
+    "average_score": 2.8803,
+    "count": 4944
+  },
+  "run_wiki_compression_r16_summ_l5_extreme": {
+    "average_score": 2.212,
+    "count": 4934
+  },
+  "run_wiki_compression_r4_original_text": {
+    "average_score": 3.2494,
+    "count": 4940
+  },
+  "run_wiki_compression_r4_summ_l3_medium": {
+    "average_score": 2.912,
+    "count": 4942
+  },
+  "run_wiki_compression_r4_summ_l5_extreme": {
+    "average_score": 2.2474,
+    "count": 4932
+  }
+}
